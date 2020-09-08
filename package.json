@@ -6,7 +6,7 @@
   "author": "eomttt <hyunt0413@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "PORT=4000 nodemon index.js"
+    "start": "set PORT=4000 nodemon index.js"
   },
   "dependencies": {
     "axios": "^0.19.2",
